@@ -1,4 +1,4 @@
-Verbier
+Figure
 ======
 
-Basekit Standard Template
+A Basekit Standard Template for the Construction Industry
