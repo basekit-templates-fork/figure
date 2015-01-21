@@ -1,7 +1,7 @@
 {
-    "name":"Verbier",
-    "thumbnail":"verbier.png",
-    "screenshot":"verbier.png",
+    "name":"Figure",
+    "thumbnail":"figure.png",
+    "screenshot":"figure.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "images":[
@@ -59,7 +59,7 @@
         }
     },
     "fontSwatch": {
-       "title": "Merriweather",
+       "title": "Futura",
         "font1": {
             "font-family": "\"Futura\", Helvetica, sans-serif",
             "font-size": "38px",
