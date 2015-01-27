@@ -5,7 +5,8 @@
     "templateType":"standard",
     "pageTypes": ["home"],
     "images":[
-        "images/image-1.jpg"
+        "images/image-1.jpg",
+        "images/image-2.jpg"
     ],
     "tags": {
     "en": ["clean", "minimal"]
